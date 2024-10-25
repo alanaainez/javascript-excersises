@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    color: rgb(0, 0, 0);
+}
+button {
+    width: 200px;
+    border-radius: 4px;
+}
+p {
+    color: rgb(86, 232, 18);
+}
