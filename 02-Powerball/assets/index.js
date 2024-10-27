@@ -27,7 +27,7 @@ document.getElementById("redball").innerHTML = "Your redball: " + redBall;
 document.getElementById("whiteball-1").innerHTML = "Your whiteballs: " + whiteBalls;
 
 }
- 
+
   
   
   
